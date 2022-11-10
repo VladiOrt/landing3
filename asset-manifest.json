@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing3/static/css/main.16c7fb77.css",
-    "main.js": "/landing3/static/js/main.b305e92c.js",
+    "main.css": "/landing3/static/css/main.0968d33c.css",
+    "main.js": "/landing3/static/js/main.8cceaef4.js",
     "static/js/787.28525a86.chunk.js": "/landing3/static/js/787.28525a86.chunk.js",
     "static/media/fondo2.svg": "/landing3/static/media/fondo2.37b6aafd2f285873a06e.svg",
     "static/media/fondo.svg": "/landing3/static/media/fondo.ac36e9afa08d9c5f6b68.svg",
@@ -13,7 +13,6 @@
     "static/media/fondo.png": "/landing3/static/media/fondo.8be3ae07a75b9d49c508.png",
     "static/media/FarnhamDisplayRegularOSF.otf": "/landing3/static/media/FarnhamDisplayRegularOSF.94ab730e606ae6f3de94.otf",
     "static/media/logo.svg": "/landing3/static/media/logo.628497c8f0fb7c62b22477dc2794f951.svg",
-    "static/media/LogoP.svg": "/landing3/static/media/LogoP.031e5ba45f50dbb9e5c9434430e80d48.svg",
     "static/media/fondoDeg.webp": "/landing3/static/media/fondoDeg.e1a089d8d4b859954418.webp",
     "static/media/RedP.svg": "/landing3/static/media/RedP.059dafb9b1c3d8f9a328d16ae639f711.svg",
     "static/media/red.svg": "/landing3/static/media/red.06912b0f80878ca101930c41c7db1d48.svg",
@@ -22,12 +21,12 @@
     "index.html": "/landing3/index.html",
     "static/media/posicion.svg": "/landing3/static/media/posicion.9674db6756249a30ea61e8ec81910935.svg",
     "static/media/FaceP.svg": "/landing3/static/media/FaceP.dfc532444d46d9785c9445d110bbc7b4.svg",
-    "main.16c7fb77.css.map": "/landing3/static/css/main.16c7fb77.css.map",
-    "main.b305e92c.js.map": "/landing3/static/js/main.b305e92c.js.map",
+    "main.0968d33c.css.map": "/landing3/static/css/main.0968d33c.css.map",
+    "main.8cceaef4.js.map": "/landing3/static/js/main.8cceaef4.js.map",
     "787.28525a86.chunk.js.map": "/landing3/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16c7fb77.css",
-    "static/js/main.b305e92c.js"
+    "static/css/main.0968d33c.css",
+    "static/js/main.8cceaef4.js"
   ]
 }
